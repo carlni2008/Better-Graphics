@@ -10,4 +10,4 @@ Features:
   Clearer water
   Strawberries instead of beetroot
   
-This version currently supports 1.16 only, add support for other versions soon.
+
