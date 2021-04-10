@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/grass/grass"},
+			{ "model": "block/grass/grass2"}
+		]
+    }
+}

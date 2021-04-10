@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "inverted=false": { "model": "block/solar_panel" },
+        "inverted=true": { "model": "block/solar_panel_inverted" }
+    }
+}

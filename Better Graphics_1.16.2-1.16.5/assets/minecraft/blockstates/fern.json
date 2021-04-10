@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [{ "model": "block/fernbush" },
+		{ "model": "block/fernbush", "y": 90 },
+		{ "model": "block/fernbush", "y": 180 },
+		{ "model": "block/fernbush", "y": 270 },
+		{ "model": "block/fernbush", "y": 180 }
+		]
+    }
+}
